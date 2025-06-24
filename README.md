@@ -1,10 +1,12 @@
-# 🧾 BusCard
+# 🧾 NewBusCard
 
-A lightweight, modern Business Card Manager built with Python and CustomTkinter — perfect for managing professional contact info with a sleek interface.
+A lightweight, modern **Business Card Manager** built with Python and **CustomTkinter** — perfect for managing professional contacts with a sleek interface.
+
+---
 
 ## 📸 Screenshot
 
-![BusCard Screenshot](newbuscard/buscardm.png)
+![Screenshot](https://raw.githubusercontent.com/hotjwk/newbuscard/main/newbuscard/buscardm.png)
 
 ---
 
@@ -13,16 +15,16 @@ A lightweight, modern Business Card Manager built with Python and CustomTkinter 
 - 📇 Add, view, edit, and delete business card entries
 - 🖼️ Store names, phone numbers, emails, and photos
 - 🖌️ Beautiful CustomTkinter-based GUI
-- 🔐 Configuration via `.env` using `python-decouple`
-- 🛢️ Local SQLite database included
+- 🔐 Environment config via `.env` using `python-decouple`
+- 🛢️ Local SQLite database support
 
 ---
 
 ## 🚀 Installation
 
-Install directly from PyPI:
+Install from PyPI:
 
 ```bash
-pip install buscard
+pip install newbuscard
 
 ```

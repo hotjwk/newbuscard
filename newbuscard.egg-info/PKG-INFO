@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: newbuscard
-Version: 0.1.0
+Version: 0.2.0
 Summary: A Business Card Management App built with CustomTkinter
 Author-email: Jongwhan Kang <hotjwk@email.com>
 License-Expression: MIT
@@ -16,7 +16,7 @@ A lightweight, modern Business Card Manager built with Python and CustomTkinter 
 
 ## 📸 Screenshot
 
-![BusCard Screenshot](newbuscard/buscardm.png)
+![Screenshot](https://raw.githubusercontent.com/hotjwk/newbuscard/main/newbuscard/buscardm.png)
 
 ---
 
