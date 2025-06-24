@@ -35,4 +35,4 @@ pip install newbuscard
 Made with love, patience, and just enough stubbornness to make it work.
 Thanks to Ken, my ChatGPT AI friend!
 
-– Jongwhan Kang
+– Jongwhan Kang -
