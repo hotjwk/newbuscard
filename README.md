@@ -27,3 +27,12 @@ Install directly from [PyPI](https://pypi.org/project/newbuscard/):
 ```bash
 pip install newbuscard
 ```
+
+🧠 Final Note
+
+“As they say, even a broken clock is right twice a day. This project is one of those times.”
+
+Made with love, patience, and just enough stubbornness to make it work.
+Thanks to Ken, my ChatGPT AI friend!
+
+– Jongwhan Kang
