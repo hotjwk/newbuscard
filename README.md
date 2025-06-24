@@ -8,6 +8,10 @@ A lightweight, modern **Business Card Manager** built with Python and **CustomTk
 
 ## ![Screenshot](newbuscard/buscardm.png)
 
+## 📸 Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/hotjwk/newbuscard/main/newbuscard/buscardm.png)
+
 ## ✨ Features
 
 - 📇 Add, view, edit, and delete business card entries
